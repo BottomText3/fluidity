@@ -89,43 +89,6 @@ export const links: linkGroup[] = [
 				value: "https://www.youtube.com/playlist?list=PLUFq4veSOMyMS-DHRJCxYanihDp2gslGI",
 			}
 		]
-	},
-	{
-		title: "Zoom Links",
-		links: [
-			{
-				label: "1st Hour",
-				value: "https://slpschools-org.zoom.us/j/92044065551"
-			},
-			{
-				label: "2nd Hour",
-				value: "https://slpschools-org.zoom.us/j/97651134840"
-			},
-			{
-				label: "3rd Hour",
-				value: "https://slpschools-org.zoom.us/j/99150117703?pwd=RVJKRTRIbVpCYU43ZGhaOHc4K1JPZz09"
-			},
-			{
-				label: "4th Hour",
-				value: "https://slpschools-org.zoom.us/j/91232873683"
-			},
-			{
-				label: "Connections",
-				value: "https://slpschools-org.zoom.us/j/95289505093"
-			},
-			{
-				label: "5th Hour",
-				value: "https://slpschools-org.zoom.us/j/99741596487"
-			},
-			{
-				label: "6th Hour",
-				value: "https://slpschools-org.zoom.us/j/93001481176"
-			},
-			{
-				label: "7th Hour",
-				value: "https://slpschools-org.zoom.us/j/95060735685"
-			}
-		]
 	}
 ]
 
