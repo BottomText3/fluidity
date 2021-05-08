@@ -138,8 +138,8 @@ export const themes: Theme[] = [
 		image: "https://static.wikia.nocookie.net/omniversal-battlefield/images/8/82/Niko_and_Rue.gif/revision/latest/scale-to-width-down/640?cb=20190624054404",
 		colors: {
 			"--bg-color": "#220a2f",
-			"--default-color": "#660a4b",
-			"--accent-color": "#cd0e5b",
+			"--default-color": "#cd0e5b",
+			"--accent-color": "#660a4b",
 			"--accent-color2": "#f6177b"
 		}
 	},
