@@ -134,6 +134,16 @@ export type Theme = {
 
 export const themes: Theme[] = [
 	{
+		name: "Oneshot",
+		image: "https://static.wikia.nocookie.net/omniversal-battlefield/images/8/82/Niko_and_Rue.gif/revision/latest/scale-to-width-down/640?cb=20190624054404",
+		colors: {
+			"--bg-color": "#220a2f",
+			"--default-color": "#660a4b",
+			"--accent-color": "#cd0e5b",
+			"--accent-color2": "#f6177b"
+		}
+	},
+	{
 		name: "Kitties",
 		image: "https://64.media.tumblr.com/5a232d5c0999d02388d78e5c1025f94f/0572516693bf4014-3d/s500x750/0306dc89b657093529aa3ce96e64b9c43572e901.gifv",
 		colors: {
